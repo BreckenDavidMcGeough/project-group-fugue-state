@@ -2,3 +2,6 @@
 
 # Created dev branch
 - Be sure to 'git checkout dev' in terminal before writing any code! 
+
+
+This is a fork of my group project from CSE442. My alternate github account linked to my UB email address is associated with this project (breckenm@buffalo.edu|breckenmcgeough).
